@@ -3,8 +3,6 @@
 
 Get random names from Rocky Horror Picture Show characters.
 
-<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/leroyjames/rockyhorror-names" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/leroyjames/rockyhorror-names.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
-
 ![rockyhorror-names](other/rockyhorror-names.gif)
 
 ## Installation
