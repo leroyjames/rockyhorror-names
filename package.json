@@ -1,6 +1,6 @@
 {
   "name": "rockyhorror-names",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.0",
   "description": "Get random Rocky Horror names",
   "main": "dist/index.js",
   "scripts": {
