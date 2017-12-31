@@ -13,8 +13,8 @@ describe('rockyhorror-names', function() {
       }
     });
 
-    it('should contain `Luke Skywalker`', function() {
-      expect(rockyHorror.all).to.include('Luke Skywalker');
+    it('should contain `Dr. Frank-N-Furter - A Scientist`', function() {
+      expect(rockyHorror.all).to.include('Dr. Frank-N-Furter - A Scientist');
     });
   });
 
