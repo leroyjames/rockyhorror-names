@@ -1,30 +1,24 @@
-# starwars-names
+# rockyhorror-names
 
-[![travis build](https://img.shields.io/travis/kentcdodds/starwars-names.svg?style=flat-square)](https://travis-ci.org/kentcdodds/starwars-names)
-[![codecov coverage](https://img.shields.io/codecov/c/github/kentcdodds/starwars-names.svg?style=flat-square)](https://codecov.io/github/kentcdodds/starwars-names)
-[![version](https://img.shields.io/npm/v/starwars-names.svg?style=flat-square)](http://npm.im/starwars-names)
-[![downloads](https://img.shields.io/npm/dm/starwars-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=starwars-names&from=2015-08-01)
-[![MIT License](https://img.shields.io/npm/l/starwars-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
-Get random names from Star Wars characters.
+Get random names from Rocky Horror Picture Show characters.
 
-<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/starwars-names" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/starwars-names.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/leroyjames/rockyhorror-names" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/leroyjames/rockyhorror-names.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 
-![starwars-names](other/starwars-names.gif)
+![rockyhorror-names](other/rockyhorror-names.gif)
 
 ## Installation
 
 This package is distributed via npm:
 
 ```
-npm install starwars-names
+npm install rockyhorror-names
 ```
 
 ## Usage
 
 ```javascript
-var names = require('starwars-names');
+var names = require('rockyhorror-names');
 var allNames = names.all;
 var randomName = names.random();
 var threeRandomNames = names.random(3);
@@ -32,7 +26,7 @@ var threeRandomNames = names.random(3);
 
 ## Other
 
-This library was developed by [me](https://twitter.com/kentcdodds) as part of an
+This library was developed by [me](https://twitter.com/leroyjames) as part of an
 [egghead.io](http://egghead.io/) series called "How to Write a JavaScript Library."
 
 I'm now also using it to give [a workshop](http://kcd.im/fem-oss) for
