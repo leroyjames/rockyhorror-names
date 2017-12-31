@@ -1,7 +1,7 @@
 # rockyhorror-names
 
 
-Get random names from Rocky Horror Picture Show characters.
+Get random names from <a href="http://www.imdb.com/title/tt0073629/" target="_blank">Rocky Horror Picture Show</a> characters.
 
 ![rockyhorror-names](other/rockyhorror-names.gif)
 
